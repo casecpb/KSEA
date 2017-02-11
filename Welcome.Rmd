@@ -1,0 +1,41 @@
+---
+output: html_document
+---
+
+# **Welcome!**
+
+### *The KSEA App computationally infers relative kinase activity from quantitative phosphoproteomics data.*
+
+<br><br>
+
+New to this site? For help getting started, read our **User Manual**, found in the left panel (top).
+
+**Note: This app currently supports only human protein analysis.**
+
+
+*Please cite the following papers if using this app:*
+
+1. Wiredja D.D., Koyutürk M., Chance M.R. (2017) The KSEA App: a web-based tool for kinase activity inference from quantitative phosphoproteomics. *Submitted for review.*
+
+2. [Casado, P., Rodriguez-Prados, J.-C., Cosulich, S. C., Guichard, S., Vanhaesebroeck, B., Joel, S., and Cutillas, P. R. (2013) Kinase-substrate enrichment analysis provides insights into the heterogeneity of signaling pathway activation in leukemia cells. *Sci. Signal*. 6, rs6-rs6](http://stke.sciencemag.org/content/6/268/rs6.long)
+
+
+
+-----
+### *Warnings!*
+
+The KSEA App does not store any of the data once the site is reloaded or disconnected. Please save all the results before exiting!
+
+To conserve server run time, the app disconnects automatically after 10 minutes of inactivity.
+
+For highly sensitive and confidential files, we encourage you to run the KSEA App locally on your computer (see below).
+
+-----
+### *Source Code and Local Installation*
+
+Our source code, along with instructions for local installation, can be found on our Github site: https://github.com/casecpb/KSEA.
+
+-----    
+#### Thank you for using the KSEA App! 
+
+Any questions? Please email ddw34@case.edu.
