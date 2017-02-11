@@ -13,7 +13,9 @@
 
 1. Download and install the R programming software [here](https://www.r-project.org/). We recommend you have version 3.0.3 or newer installed. This app has not been tested on older versions.
 
-2. Download and install the free R Studio software [here](https://www.rstudio.com/products/rstudio/download/). This provides a useful interface for R programming.
+2. Download and install the free R Studio software [here](https://www.rstudio.com/products/rstudio/download/). This provides a useful interface for R programming. 
+
+  (This step is optional; if you choose to skip it, steps 3-6 can be done exactly as described within the R program's basic console.)
 
 3. Open R Studio, and install the Shiny package by typing in the following command into your console, and then hit **Enter**. This may take up to a minute for completion. 
   ```
