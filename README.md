@@ -24,9 +24,9 @@
   ```
   shiny::runGitHub('KSEA', 'casecpb')
   ```
-5. The KSEA App should then automatically launch within your computer’s default internet browser. This step may take a few seconds.
+5. The KSEA App should then automatically launch in a new window/browser tab. This step may take a few seconds.
 
-6. When finished with the analysis, just exit the browser tab. Then hit the escape (Esc) key within the R studio console to terminate the KSEA App. Ignore the warning messages that may appear, and exit from R Studio. 
+6. When finished with the analysis, just exit the interface. Then, if needed, hit the escape (Esc) key within the R studio console to terminate the KSEA App. Ignore the warning messages that may appear, and exit from R Studio. 
 
 *Note: steps 1-3 only need to be done once if you are using the same computer. If you wish to access the KSEA App again after the first time, just reopen R Studio, and go straight to step 4.*
 
