@@ -9,7 +9,7 @@
 - **Welcome.Rmd**: the markdown file for the Welcome tab in the KSEA App interface
 - **www**: the folder holding the site's logo and favicon 
 
-# Instructions for Local Installation via GitHub
+# Instructions for Local Access via GitHub
 
 1. Download and install the R programming software [here](https://www.r-project.org/). We recommend you have version 3.0.3 or newer installed. This app has not been tested on older versions.
 
