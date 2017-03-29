@@ -1,6 +1,6 @@
 # Welcome to the GitHub account for the KSEA App!
 
-###You can find the source code and all dependent files here!
+### You can find the source code and all dependent files here!
 
 - **app.R**: the raw R script behind the KSEA App
 - **PSP&NetworKIN_Kinase_Substrate_Dataset_July2016.csv**: the Kinase-Substrate (K-S) dataset that the algorithm uses for identifying the substrates for each kinase
@@ -41,3 +41,8 @@ Please cite the following papers if using this tool:
 2. [Casado, P., et al. (2013) Kinase-substrate enrichment analysis provides insights into the heterogeneity of signaling pathway activation in leukemia cells. *Sci. Signal*. 6, rs6-rs6](http://stke.sciencemag.org/content/6/268/rs6.long)
 3. [Hornbeck P.V., et al. (2015) PhosphoSitePlus, 2014: mutations, PTMs and recalibrations. *Nucleic Acids Res*. 43:D512-20](https://academic.oup.com/nar/article/43/D1/D512/2439467/PhosphoSitePlus-2014-mutations-PTMs-and)
 4. [Horn H., et al. (2014) KinomeXplorer: an integrated platform for kinome biology studies. *Nat Methods*. 11(6):603-4](http://www.nature.com/nmeth/journal/v11/n6/full/nmeth.2968.html)
+
+-----
+Since the KSEA App accesses PhosphoSitePlus data, the following must be noted:
+- This tool is intended for non-commercial use.
+- Please read and abide by PhosphoSitePlus's [Terms and Conditions](http://www.phosphosite.org/staticDownloads.action).
