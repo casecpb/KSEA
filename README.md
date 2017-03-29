@@ -43,6 +43,7 @@ Please cite the following papers if using this tool:
 4. [Horn H., et al. (2014) KinomeXplorer: an integrated platform for kinome biology studies. *Nat Methods*. 11(6):603-4](http://www.nature.com/nmeth/journal/v11/n6/full/nmeth.2968.html)
 
 -----
-Since the KSEA App accesses PhosphoSitePlus data, the following must be noted:
+Since the KSEA App is hosted on RStudio's shinyapps.io server and accesses PhosphoSitePlus data, the following must be noted:
 - This tool is intended for non-commercial use.
 - Please read and abide by PhosphoSitePlus's [Terms and Conditions](http://www.phosphosite.org/staticDownloads.action).
+- Please read and abide by RStudio's [Terms and Conditions](https://www.rstudio.com/about/shinyapps- terms-use/).
