@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+
+# **Welcome!**
+
+### *The KSEA App computationally infers relative kinase activity from quantitative phosphoproteomics data.*
+
+<br><br>
+
+New to this site? For help getting started, read our **User Manual**, found in the left panel (top).
+
+**Note: This app currently supports only human protein analysis.**
+
+
+*Please cite the following papers if using this app:*
+
+1. Wiredja D.D., Koyutürk M., Chance M.R. (2017) The KSEA App: a web-based tool for kinase activity inference from quantitative phosphoproteomics. *Submitted for review.*
+
+2. [Casado, P., et al. (2013) Kinase-substrate enrichment analysis provides insights into the heterogeneity of signaling pathway activation in leukemia cells. *Sci. Signal*. 6, rs6-rs6](http://stke.sciencemag.org/content/6/268/rs6.long)
+
+3. [Hornbeck P.V., et al. (2015) PhosphoSitePlus, 2014: mutations, PTMs and recalibrations. *Nucleic Acids Res*. 43:D512-20](https://academic.oup.com/nar/article/43/D1/D512/2439467/PhosphoSitePlus-2014-mutations-PTMs-and)
+
+4. [Horn H., et al. (2014) KinomeXplorer: an integrated platform for kinome biology studies. *Nat Methods*. 11(6):603-4](http://www.nature.com/nmeth/journal/v11/n6/full/nmeth.2968.html)
+
+
+
+-----
+### *Warnings!*
+
+The KSEA App does not store any of the data once the site is reloaded or disconnected. Please save all the results before exiting!
+
+To conserve server run time, the app disconnects automatically after 10 minutes of inactivity.
+
+For highly sensitive and confidential files, we encourage you to run the KSEA App locally on your computer (see below).
+
+This tool is only for non-commercial use.
+
+By using the KSEA App, which accesses PhosphoSitePlus data, you agree to abide by these [Terms and Conditions](http://www.phosphosite.org/staticDownloads.action).
+
+-----
+### *Source Code and Local Access*
+
+Our source code, along with instructions for local access, can be found on our Github site: https://github.com/casecpb/KSEA.
+
+-----    
+#### Thank you for using the KSEA App! 
+
+Any questions? Please email ddw34@case.edu.
