@@ -46,4 +46,4 @@ Please cite the following papers if using this tool:
 Since the KSEA App is hosted on RStudio's shinyapps.io server and accesses PhosphoSitePlus data, the following must be noted:
 - This tool is intended for non-commercial use.
 - Please read and abide by PhosphoSitePlus's [Terms and Conditions](http://www.phosphosite.org/staticDownloads.action).
-- Please read and abide by RStudio's [Terms and Conditions](https://www.rstudio.com/about/shinyapps-terms-use/).
+- Please read and abide by RStudio's [Terms of Use](https://www.rstudio.com/about/shinyapps-terms-use/).
