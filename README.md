@@ -1,4 +1,4 @@
-# Welcome to the GitHub account for the KSEA App!
+# Welcome to the GitHub account for the KSEA App's online tool!
 
 ### You can find the source code and all dependent files here!
 
@@ -11,6 +11,13 @@
 
 # Instructions for Local Access via GitHub
 
+### IMPORTANT!
+
+If you want to analyze your dataset using the KSEAapp R package, go to our sister site https://github.com/casecpb/KSEAapp/ for more details on installation.
+
+If you want to learn how to run the exact same online interface locally on your computer, continue reading. 
+
+**Instructions for local online interface access:**
 1. Download and install the R programming software [here](https://www.r-project.org/). We recommend you have version 3.0.3 or newer installed. This app has not been tested on older versions.
 
 2. Download and install the free R Studio software [here](https://www.rstudio.com/products/rstudio/download/). This provides a useful interface for R programming. 
