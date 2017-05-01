@@ -32,7 +32,7 @@ The KSEA App does not store any of the data once the site is reloaded or disconn
 
 To conserve server run time, the app disconnects automatically after 10 minutes of inactivity.
 
-For highly sensitive and confidential files, we encourage you to run the KSEA App locally on your computer (see below).
+For highly sensitive and confidential files, we encourage you to run the KSEA App locally on your computer (see below). Alternatively, R programmers can analyze their data using the KSEAapp R package; details are in https://github.com/casecpb/KSEAapp.
 
 This tool is only for non-commercial use.
 
