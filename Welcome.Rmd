@@ -8,7 +8,7 @@ output: html_document
 
 <br><br>
 
-New to this site? For help getting started, read our **User Manual**, found in the left panel (top).
+New to this site? For help getting started, read our **User Manual** pdf.
 
 **Note: This app currently supports only human protein analysis.**
 
